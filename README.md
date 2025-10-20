@@ -7,6 +7,7 @@ https://dev.to/pwd9000/introduction-to-github-codespaces-building-your-first-dev
 Descarregar de:  https://docs.docker.com/desktop/setup/install/linux/
 
 La màquina virtual requereix virtualització de hardware VT-x/AMD-V
+Holaa
 
 ## 🌟 Executar el primer docker
 `docker run -d --name apache-container -p 8181:80 httpd:latest`
